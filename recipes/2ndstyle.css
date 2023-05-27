@@ -1,0 +1,44 @@
+body {
+    color: snow;
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: chocolate;
+    background-color: blanchedalmond;
+    text-align: center;
+
+    font-size: 40px;
+    font-style: bold;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+h3,
+h4 {
+    text-align: center;
+    background-color: blanchedalmond;
+    color: chocolate;
+}
+
+p {
+    text-align: justify
+    ;
+}
+
+ol.centered,
+ul.centered {
+    display: inline-block;
+    text-align: center;
+    align-items: center;
+    align-self: center;
+
+}
+
+div.order {
+    text-align: center;
+}
